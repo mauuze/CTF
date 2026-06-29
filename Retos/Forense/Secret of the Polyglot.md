@@ -10,4 +10,14 @@ Para conseguir la otra parte utilizamos el siguiente comando:
 
 **mv flag2of2-final.pdf flag2of2-final.png**
 
-Esto nos genera una imagen 
+Esto nos genera una imagen con la otra parte de la flag
+
+<img width="50" height="50" alt="flag2of2-final" src="https://github.com/user-attachments/assets/bbe06402-19d8-4df0-ae56-75747f9cc487" />
+
+Con esto ya tenemos la flag completa que es:
+
+**picoCTF{f1u3n7_1n_pn9_&_pdf_2a6a1ea8}**
+
+Subimos la flag a picoctf y listo.
+
+<img width="968" height="116" alt="Screenshot_20260628_233337" src="https://github.com/user-attachments/assets/d7c5ea10-7d49-46df-a036-baf25bc543fb" />
