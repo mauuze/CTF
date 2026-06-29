@@ -12,7 +12,7 @@ Para conseguir la otra parte utilizamos el siguiente comando:
 
 Esto nos genera una imagen con la otra parte de la flag
 
-<img width="50" height="50" alt="flag2of2-final" src="https://github.com/user-attachments/assets/bbe06402-19d8-4df0-ae56-75747f9cc487" />
+<img width="368" height="372" alt="Screenshot_20260628_233525" src="https://github.com/user-attachments/assets/be92cb6d-4a05-467c-b6c6-4b74a0dc0961" />
 
 Con esto ya tenemos la flag completa que es:
 
