@@ -8,7 +8,7 @@ Primero obtenemos la informacion de los archivos que se encuentran en el archivo
 
 **fls -m / -r partition4.img > bodyfile.txt**
 
-Luego generamos una linea de tiempo orednana cronologicamente con el comando:
+Luego generamos una linea de tiempo ordenada cronologicamente con el comando:
 
 **mactime -b bodyfile.txt > timeline.txt**
 
