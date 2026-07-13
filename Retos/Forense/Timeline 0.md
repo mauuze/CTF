@@ -16,7 +16,7 @@ Ahora procdemos a observar el contenido del archivo timeline que se ve asi:
 
 <img width="749" height="702" alt="Screenshot_20260712_221005" src="https://github.com/user-attachments/assets/c1dfa155-bb9f-4162-9cfa-da90f5cf4fa6" />
 
-Como tenemos la pista **Sloppy timestomping can yield strange (very old) timestamps** procedemos a ver los archivos mas antiguos, el mas antiguo correnponde al id de archivo 4945, con el cisguiente comando:
+Como tenemos la pista **Sloppy timestomping can yield strange (very old) timestamps** procedemos a ver los archivos mas antiguos, el mas antiguo correnponde al id de archivo 4945, con el siguiente comando:
 
 **icat partition41.img 4945**
 
