@@ -1,7 +1,11 @@
 # CanYouSee
 **How about some hide and seek?**
 
-Descargamos el archivo adjunto, descomprimmos y tenemos la pista **How can you view the information about the picture?**, por lo tanto veremos los metadatos de la imagen.
+Descargamos el archivo adjunto, descomprimos obtenemos la imagen:
+
+<img width="4308" height="2875" alt="ukn_reality" src="https://github.com/user-attachments/assets/a0a0d6db-1c36-46ee-92d1-f9da53b3bbd7" />
+
+Y tenemos la pista **How can you view the information about the picture?**, por lo tanto veremos los metadatos de la imagen.
 
 Utilizamos el comando: **exiftool ukn_reality.jpg**
 
