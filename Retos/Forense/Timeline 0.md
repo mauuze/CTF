@@ -2,6 +2,8 @@
 
 **Can you find the flag in this disk image? Wrap what you find in the picoCTF flag format.**
 
+Todas los comandos utilizados son de la herramienta sleuthkit.
+
 Primero obtenemos la informacion de los archivos que se encuentran en el archivo **partition4.img** con el comando:
 
 **fls -m / -r partition4.img > bodyfile.txt**
