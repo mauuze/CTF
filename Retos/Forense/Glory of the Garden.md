@@ -2,7 +2,11 @@
 
 **This file contains more than it seems.**
 
-Tenemos la pista **What is a hex editor?** por lo que utilizando una herramienta vemos el hex.
+Tenemos la imagen:
+
+<img width="2999" height="2249" alt="garden" src="https://github.com/user-attachments/assets/19637148-3680-4cc3-9afd-4adfad9995f8" />
+
+Y tambien enemos la pista **What is a hex editor?** por lo que utilizando una herramienta vemos el hex.
 
 Inspeccionando el hex podemos ver lo siguiente:
 
