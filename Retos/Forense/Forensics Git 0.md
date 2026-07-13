@@ -10,7 +10,7 @@ Y vemos que si tiene particiones:
 
 Nos quedamos con la particion que tiene como inicio **0001140736** y le hacemos una copia de los archivos a una carpeta llamada recovered con el comando:
 
-**tsk_recover -o 0001140736 disk.img recovered**
+**tsk_recover -e -o 0001140736 disk10.img recovered**
 
 Mirando un poco en lo que recuperamos si llegamos hasta la parte de **recovered/home/ctf-player/Code/secrets** hay un archivo llamado note.txt que contiene lo siguiente:
 
