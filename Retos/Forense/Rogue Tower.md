@@ -3,7 +3,7 @@
 
 Primero vemos el puerto UDP 55000 y obtenemos algo interesante que es lo siguiente:
 
-**UNAUTHORIZED-TEST-NETWORK PLMN=00101 CELLID=92058 **
+**UNAUTHORIZED-TEST-NETWORK PLMN=00101 CELLID=92058**
 
 Ahora pocedemos a ver los HTTP User-Agent headers pero buscando con el CELLID que ya encontramos y obtenemos lo siguiente:
 
